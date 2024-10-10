@@ -1,8 +1,5 @@
 ### Hi there Welcome to My GitHub👋
 
-<!--
-**sunilkpokkalla/sunilkpokkalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About Me
 I’m a passionate Data Engineer and Entrepreneur with over 14 years of experience in IT. My career journey has been driven by a love for data, automation, and innovation, which has led me to work across diverse fields—from managing big data pipelines to leading entrepreneurial ventures. I thrive on solving complex data challenges and building scalable solutions.
 
